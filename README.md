@@ -40,5 +40,4 @@ we test. All the others have no missing values, so the only fill in the model is
 
 ## AI assistance
 
-I used Claude (Anthropic) to help write the code, format the tables and draft the report.
-I checked every step and ran the pipeline myself.
+I used Claude to help write the code, format the tables and draft the report.
